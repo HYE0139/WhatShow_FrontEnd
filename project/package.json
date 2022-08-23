@@ -9,9 +9,16 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "bootstrap-vue": "^2.22.0",
+    "bootstrap-vue-3": "^0.1.21",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13",
+    "sweetalert2": "^11.4.26",
+    "vue": "^3.2.37",
+    "vue-carousel-3d": "^1.0.1",
+    "vue-coverflow": "^2.2.0",
     "vue-router": "^4.0.3",
+    "vue-sweetalert2": "^5.0.5",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
